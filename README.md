@@ -1,2 +1,2 @@
-A blog app made using Django. 
-A practice Django project. 
+A blog app made using Django, CSS and likes. 
+A practice project. 
